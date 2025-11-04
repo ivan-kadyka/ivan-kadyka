@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&pause=800&random=false&width=950&height=75&lines=Hi+there!+I'm+Ivan%2C;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00897B&width=435&lines=Hi+there!+I+am+Ivan%2C;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 Technical Lead & Software Engineer with 10+ years of experience building scalable systems, web apps, and tools across multiple domains
 Specializing in **C#/.NET**, **ASP.NET Core**, **WPF**, **Unity**, **JavaScript/TypeScript**, **Node.js**, **React/Next.js**, and **Nest.js**.  
