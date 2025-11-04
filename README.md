@@ -29,7 +29,7 @@ _Always exploring new technologies - but here’s what I rely on most for produc
 <br/>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,unity" /><br/>
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,next,nest,tailwind" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,next,nest,tailwind,prisma" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,git,github,githubactions,docker,kubernetes,azure,aws" />
 </a>
 
