@@ -2,7 +2,7 @@
 
 Technical Lead & Software Engineer with 10+ years of experience building scalable systems, web apps, and tools across multiple domains
 Specializing in **C#/.NET**, **ASP.NET Core**, **WPF**, **Unity**, **JavaScript/TypeScript**, **Node.js**, **React/Next.js**, and **Nest.js**.  
-Experienced in leading teams and delivering projects through the full software lifecycle — from architecture & design to deployment, support, and analytics.  
+Experienced in leading teams and delivering projects through the full software lifecycle - from architecture & design to deployment, support, and analytics.  
 Passionate about **high-quality code**, **system scalability**, and **automation** that makes development faster and more reliable.
 
 - 🧠 Strong background in software architecture, backend systems, and cross-platform tooling
@@ -10,20 +10,20 @@ Passionate about **high-quality code**, **system scalability**, and **automation
 - 🛠 Building developer tools, automation pipelines, and game development frameworks
 - 🌍 Open to collaborations and new challenges in full-stack or technical leadership roles
 
----
+## 🚀 Visit my project
 
-### Visit My Project
 <a href="https://timetobook.net">
-  <img src="https://lcfj2f2bvs.ufs.sh/f/jPx4RD2hB1UgRQrcD3e9avnwdj6o07cCs5FPQuVTSWl3thbJ" />
+  <img width="180" src="https://lcfj2f2bvs.ufs.sh/f/jPx4RD2hB1UgRQrcD3e9avnwdj6o07cCs5FPQuVTSWl3thbJ" />
 </a>
+</br>
+Modern scheduling and booking platform designed for teams and professionals.
 
-## 👋 Connect with Me
+## 👋 Connect with me
 
 <a href="https://www.linkedin.com/in/ivan-kadyka" target="_blank"><img src="public/linkedin.gif" width="60" /></a> <a href="mailto:ivankadyko@gmail.com"><img src="public/outlooklogo.gif" width="60" /></a>
 
----
 
-## 🛠 Favorite Tech Stack
+## 🛠 Favorite tech stack
 
 _Always exploring new technologies - but here’s what I rely on most for production systems._  
 <br/>
@@ -33,4 +33,3 @@ _Always exploring new technologies - but here’s what I rely on most for produc
   <img src="https://skillicons.dev/icons?i=postgres,redis,docker,git" />
 </a>
 
----
