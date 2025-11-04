@@ -5,14 +5,17 @@ Specializing in **C#/.NET**, **ASP.NET Core**, **WPF**, **Unity**, **JavaScript/
 Experienced in leading teams and delivering projects through the full software lifecycle — from architecture & design to deployment, support, and analytics.  
 Passionate about **high-quality code**, **system scalability**, and **automation** that makes development faster and more reliable.
 
-- 🧩 Strong background in software architecture, backend systems, and cross-platform tooling
+- 🧠 Strong background in software architecture, backend systems, and cross-platform tooling
 - 💼 Driving project execution, mentoring teams, and ensuring maintainable codebases
-- 🧠 Building developer tools, automation pipelines, and game development frameworks
+- 🛠 Building developer tools, automation pipelines, and game development frameworks
 - 🌍 Open to collaborations and new challenges in full-stack or technical leadership roles
 
 ---
 
-### [➤ Visit My Project](https://timetobook.net)
+### Visit My Project
+<a href="https://timetobook.net">
+  <img src="https://lcfj2f2bvs.ufs.sh/f/jPx4RD2hB1UgRQrcD3e9avnwdj6o07cCs5FPQuVTSWl3thbJ" />
+</a>
 
 ## 👋 Connect with Me
 
@@ -22,10 +25,12 @@ Passionate about **high-quality code**, **system scalability**, and **automation
 
 ## 🛠 Favorite Tech Stack
 
-_Always exploring new technologies — but here’s what I rely on most for production systems._  
+_Always exploring new technologies - but here’s what I rely on most for production systems._  
 <br/>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,unity,js,ts,nodejs,react,next,nest,tailwind,postgres,redis,docker,git" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,unity" /><br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,next,nest,tailwind" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,git" />
 </a>
 
 ---
