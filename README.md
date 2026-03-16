@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Momo+Trust+Display&size=28&pause=1000&color=00897B&width=435&lines=Hi+there!+I+am+Ivan%2C;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
-Technical Lead & Software Engineer with 10+ years of experience building scalable systems, web apps, and tools across multiple domains
+Technical Lead & Software Engineer with 13+ years of experience building scalable systems, web apps, and tools across multiple domains
 Specializing in **C#/.NET**, **Unity**, **ASP.NET Core**, **Xamarin**, **WPF**, **JavaScript/TypeScript**, **Node.js**, **React/Next.js**, and **Nest.js**.  
 Experienced in leading teams and delivering projects through the full software lifecycle - from architecture & design to deployment, support, and analytics.  
 Passionate about **high-quality code**, **system scalability**, and **automation** that makes development faster and more reliable.
@@ -30,6 +30,6 @@ _Always exploring new technologies - but here’s what I rely on most for produc
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,unity" /><br/>
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,next,nest,tailwind,prisma" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,git,github,githubactions,docker,kubernetes,azure,aws,sentry" />
+  <img src="https://skillicons.dev/icons?i=postgres,redis,git,github,githubactions,docker,kubernetes,aws,sentry" />
 </a>
 
